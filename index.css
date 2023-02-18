@@ -26,14 +26,14 @@ body{
 }
 
 .titulo{
-    font-size: 150%;
+    font-size: 120%;
     margin-left: 5%;
     margin-right: 5%;
-   color: rgb(22, 22, 22);
+    color: rgb(22, 22, 22);
 }
 
 .parrafo{
-    font-size: 103%;
+    font-size: 80%;
     margin-left: 5%;
     margin-right: 5%;
     color: rgb(115, 114, 114);
